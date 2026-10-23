@@ -223,7 +223,7 @@ Candidate evolvers for recommender tasks; none targets recommendation.
 
 | Survey | Scope | Link |
 |---|---|---|
-| **Self-Evolving Recommender Systems: A Survey and an Evaluation Audit** (ours) | loops that change recommenders; audit of 27 systems | [page](https://shangliy.github.io/recforge/survey/) · [DOI](https://doi.org/10.5281/zenodo.23575788) |
+| **Self-Evolving Recommender Systems: A Survey and an Evaluation Audit** (ours) | loops that change recommenders; audit of 27 systems | [page](https://shangliy.github.io/recforge/survey/) · [DOI](https://doi.org/10.5281/zenodo.23575788) · [Preprints.org](https://doi.org/10.20944/preprints202610.2336.v1) |
 | From Scoring to Workflow: A Survey of Agentic Recommender Systems | agents inside the serving workflow | [IP&M 2026](https://doi.org/10.1016/j.ipm.2026.105164) |
 | Autonomous Information Seeking: A Roadmap for Agentic RS | agentic RS roadmap; "agent as engineer" in passing | [2607.04433](https://arxiv.org/abs/2607.04433) |
 | A Survey on LLM-powered Agents for Recommender Systems | agents as recommenders | [2502.10050](https://arxiv.org/abs/2502.10050) |
