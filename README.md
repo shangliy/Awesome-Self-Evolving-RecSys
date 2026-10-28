@@ -258,6 +258,15 @@ If you are an author of an audited system and a cell is wrong, open an issue cit
 }
 ```
 
+If you build on the taxonomy or the audit, these sentences state what the survey covers and can be adapted:
+
+- Scope: "Self-evolving recommender systems use an automated proposer, usually an LLM agent, to change a
+  recommender's configuration, code, generative components or policy, and keep the changes that an evaluation
+  accepts~\cite{yang2026selfevolvingrecsys}."
+- Evaluation: "Following the minimum tier of the reporting standard for self-evolving
+  recommenders~\cite{yang2026selfevolvingrecsys}, we state the candidate set of each metric, name the data that
+  accepts candidates at every stage, and report the selected candidate's validation score next to its test score."
+
 ## Contributing
 
 New system, wrong cell, missing code link? See [CONTRIBUTING.md](CONTRIBUTING.md).
